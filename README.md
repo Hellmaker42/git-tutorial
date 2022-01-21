@@ -1,2 +1,2 @@
-# Git Begginners tutorial
+# Git Beginners tutorial
 This is a tutorial
